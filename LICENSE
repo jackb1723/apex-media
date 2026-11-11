@@ -1,0 +1,32 @@
+# LICENSE notes
+
+This repository mixes third-party Creative Commons works with APEX-original illustrations.
+
+## Everkinetic SVGs (`ek/`)
+
+All `ek/*.svg` files are copyright their authors and licensed under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
+
+- Deed: https://creativecommons.org/licenses/by-sa/4.0/
+- Legal code: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+- Source commit: https://github.com/everkinetic/data/tree/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6
+- These copies are unmodified.
+
+ShareAlike: adaptations of these files must also be licensed under CC BY-SA 4.0, and must credit Everkinetic as described in CREDITS.md.
+
+## wger stills (`wger/`)
+
+Each still keeps the license and author recorded for that file in CREDITS.md and manifest.json:
+
+- CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
+- CC BY-SA 3.0 — https://creativecommons.org/licenses/by-sa/3.0/
+- CC0 1.0 — https://creativecommons.org/publicdomain/zero/1.0/
+
+These copies are unmodified. wger exercise 1519 and wger 129 are not included.
+
+## APEX originals (`apex/`)
+
+Files in `apex/` are APEX-original illustrations. They are not Creative Commons works. Credit them as:
+
+Illustration: APEX original
+
+See CREDITS.md for the per-file list (wide and narrow lat pulldown, Arnold Press, and Pendlay Row, each with a thumb).

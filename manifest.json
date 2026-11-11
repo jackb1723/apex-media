@@ -1,0 +1,3261 @@
+{
+  "base": "https://jackb1723.github.io/apex-media/",
+  "files": {
+    "ek/0004-tension.svg": {
+      "md5": "5a1c9b2ac6f2946527a7dfb4bf7df245",
+      "bytes": 24438,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0004-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Seated Barbell Military Press"
+      ]
+    },
+    "ek/0008-tension.svg": {
+      "md5": "138c1c4c139c55efc5aaa8ba03cb2474",
+      "bytes": 20376,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0008-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Front Cable Raise"
+      ]
+    },
+    "ek/0013-tension.svg": {
+      "md5": "aaf8a2d284da010162a8599de3cb046d",
+      "bytes": 28659,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0013-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Smith Machine Upright Row"
+      ]
+    },
+    "ek/0014-tension.svg": {
+      "md5": "244289e1a47f9f417a418c7cfb9d3dd2",
+      "bytes": 23570,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0014-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Barbell Upright Row",
+        "Upright Barbell Row",
+        "Upright Row"
+      ]
+    },
+    "ek/0015-tension.svg": {
+      "md5": "2e19ba160e49df5c227c6e2bca15ee2e",
+      "bytes": 22169,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0015-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Cable Upright Row",
+        "Upright Cable Row"
+      ]
+    },
+    "ek/0016-tension.svg": {
+      "md5": "3d0bb2678edea061a42a8bfb054a3047",
+      "bytes": 19944,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0016-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Dumbbell Upright Row",
+        "Standing Dumbbell Upright Row"
+      ]
+    },
+    "ek/0018-tension.svg": {
+      "md5": "29d2b6a423daacb1dbcab9eccb8f2752",
+      "bytes": 22741,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0018-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Dumbbell Side Lateral Raise"
+      ]
+    },
+    "ek/0025-tension.svg": {
+      "md5": "f5e669d5ef01c10b9710467e73f60bac",
+      "bytes": 16657,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0025-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Seated Cable Row",
+        "Seated Cable Rows",
+        "Seated Row"
+      ]
+    },
+    "ek/0029-tension.svg": {
+      "md5": "732250e04247c54fc5d245d23dc4edbb",
+      "bytes": 27278,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0029-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "T-Bar Row"
+      ]
+    },
+    "ek/0030-tension.svg": {
+      "md5": "fd934350bc4b418d7af4b9b55155ada6",
+      "bytes": 22132,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0030-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Barbell Shrug",
+        "Cable Shrugs",
+        "Shrug"
+      ]
+    },
+    "ek/0032-tension.svg": {
+      "md5": "baf28a064ddb246fcedb6bdf5c1a4319",
+      "bytes": 18864,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0032-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Bent Over Dumbbell Rear Delt Raise With Head On Bench"
+      ]
+    },
+    "ek/0033-tension.svg": {
+      "md5": "e1193163cd4bf2dbf8b87ed684e8e55c",
+      "bytes": 20761,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0033-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Dumbbell Front Raise",
+        "Front Dumbbell Raise",
+        "Front Two-Dumbbell Raise"
+      ]
+    },
+    "ek/0034-tension.svg": {
+      "md5": "83b9b466e2427e5fac2b2f929117f680",
+      "bytes": 16941,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0034-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Cable Internal Rotation",
+        "Internal Rotation with Band"
+      ]
+    },
+    "ek/0038-tension.svg": {
+      "md5": "77e6cd856680fbe73f54939518a7bf1e",
+      "bytes": 18814,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0038-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Dumbbell One-Arm Shoulder Press"
+      ]
+    },
+    "ek/0039-tension.svg": {
+      "md5": "a7a0a1bb8415f510bd4573d32eb5b0b2",
+      "bytes": 18239,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0039-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Dumbbell One-Arm Upright Row"
+      ]
+    },
+    "ek/0042-tension.svg": {
+      "md5": "0f06ae383fcb4a00f8ca865e8d038e7f",
+      "bytes": 27992,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0042-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Bench Press"
+      ]
+    },
+    "ek/0043-tension.svg": {
+      "md5": "c320a86d1244b975b90861045826b84b",
+      "bytes": 26137,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0043-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Incline Bench Press"
+      ]
+    },
+    "ek/0046-tension.svg": {
+      "md5": "5b6edb3e771142fcbaa7ac7b454a75f4",
+      "bytes": 20712,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0046-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Bent-Arm Dumbbell Pullover"
+      ]
+    },
+    "ek/0048-tension.svg": {
+      "md5": "12e0f1a8585f00c6205b7cb942e63027",
+      "bytes": 21537,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0048-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Cable Crossover"
+      ]
+    },
+    "ek/0049-tension.svg": {
+      "md5": "146b171f6c71968cc2ee740b92cffcc6",
+      "bytes": 22691,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0049-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Close-Grip Barbell Bench Press"
+      ]
+    },
+    "ek/0051-tension.svg": {
+      "md5": "499f4ae3b867b9670625920ab5b29424",
+      "bytes": 21748,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0051-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Decline Barbell Bench Press"
+      ]
+    },
+    "ek/0052-tension.svg": {
+      "md5": "5f839fe267974898766146e76332d146",
+      "bytes": 24744,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0052-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Decline Dumbbell Bench Press"
+      ]
+    },
+    "ek/0053-tension.svg": {
+      "md5": "c1f6155653da456079141e7ea8d96171",
+      "bytes": 23652,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0053-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Decline Dumbbell Flyes"
+      ]
+    },
+    "ek/0055-tension.svg": {
+      "md5": "54f6a2a7e883d1b114462067707004ce",
+      "bytes": 22409,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0055-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Dumbbell Bench Press"
+      ]
+    },
+    "ek/0056-tension.svg": {
+      "md5": "942ca377b3130697c734b8d11c644cc8",
+      "bytes": 21051,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0056-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "DB Fly",
+        "Dumbbell Chest Fly",
+        "Dumbbell Flyes",
+        "Machine Chest Fly"
+      ]
+    },
+    "ek/0057-tension.svg": {
+      "md5": "3b93e2810cf42696afcb0d3ab2b6bd21",
+      "bytes": 22382,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0057-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Cable Fly"
+      ]
+    },
+    "ek/0058-tension.svg": {
+      "md5": "89c34e608221096d6de72ae9a21d42be",
+      "bytes": 18629,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0058-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Front Raise And Pullover"
+      ]
+    },
+    "ek/0060-tension.svg": {
+      "md5": "f4a04f99ec8a9ab8a12493848e520de2",
+      "bytes": 22463,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0060-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Cable Incline Fly"
+      ]
+    },
+    "ek/0061-tension.svg": {
+      "md5": "107afc210a381e246cfdeb792cbdf685",
+      "bytes": 21719,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0061-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Incline Dumbbell Bench Press"
+      ]
+    },
+    "ek/0062-tension.svg": {
+      "md5": "f9d46fe4e2a4945eea550086e01573bd",
+      "bytes": 22097,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0062-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Incline DB Fly",
+        "Incline Dumbbell Flyes"
+      ]
+    },
+    "ek/0063-tension.svg": {
+      "md5": "8935ac5628b5f2b4b5414e9fa0d844ad",
+      "bytes": 24339,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0063-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Incline Dumbbell Flyes - With A Twist"
+      ]
+    },
+    "ek/0066-tension.svg": {
+      "md5": "d2b7b80c80039888d055b628f9725d5e",
+      "bytes": 21088,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0066-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Machine Bench Press"
+      ]
+    },
+    "ek/0068-tension.svg": {
+      "md5": "9c9088362b7a97ec8cbe25d2c5300506",
+      "bytes": 21527,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0068-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "One Arm Dumbbell Bench Press"
+      ]
+    },
+    "ek/0070-tension.svg": {
+      "md5": "c62d220557a885539ad06e519b8509a2",
+      "bytes": 15824,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0070-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "One Arm Floor Press"
+      ]
+    },
+    "ek/0075-tension.svg": {
+      "md5": "7b6ebd6364393abb190013816a44b7f5",
+      "bytes": 20954,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0075-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Push-Ups With Feet Elevated"
+      ]
+    },
+    "ek/0077-tension.svg": {
+      "md5": "667c0cbe102509a70ed34fa92d87dce9",
+      "bytes": 18109,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0077-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Push-Up"
+      ]
+    },
+    "ek/0078-tension.svg": {
+      "md5": "92e259e5e036cb89254bef88e7ce3361",
+      "bytes": 32193,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0078-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Smith Machine Bench Press"
+      ]
+    },
+    "ek/0079-tension.svg": {
+      "md5": "20f1bf8f816fad9ef2ce57d43b695120",
+      "bytes": 19126,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0079-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Straight-Arm Dumbbell Pullover"
+      ]
+    },
+    "ek/0080-tension.svg": {
+      "md5": "5023fb7549bd9f15d26992c2f8334b09",
+      "bytes": 23819,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0080-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Incline Dumbbell Press"
+      ]
+    },
+    "ek/0081-tension.svg": {
+      "md5": "00bc2bcf70793cea14740c12225ea1b4",
+      "bytes": 31876,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0081-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Smith Machine Incline Bench Press"
+      ]
+    },
+    "ek/0082-tension.svg": {
+      "md5": "fd538d1a837fe8328017b447ba4ca46b",
+      "bytes": 23456,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0082-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Wide-Grip Barbell Bench Press"
+      ]
+    },
+    "ek/0085-tension.svg": {
+      "md5": "e640e54bbcdaefc0b0bfd5d11cd70ebf",
+      "bytes": 21516,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0085-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Leverage Decline Chest Press"
+      ]
+    },
+    "ek/0086-tension.svg": {
+      "md5": "250826c411d1855d3393bb04d2ca5b01",
+      "bytes": 20285,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0086-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Inverted Barbell Row",
+        "Inverted Row"
+      ]
+    },
+    "ek/0087-tension.svg": {
+      "md5": "b8243d2254fc05c3fe5a4efbdba60810",
+      "bytes": 17816,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0087-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Pull-Up",
+        "Pullups"
+      ]
+    },
+    "ek/0092-tension.svg": {
+      "md5": "5debe1002748f72ea6d69249a0c39421",
+      "bytes": 16423,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0092-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Straight-Arm Pulldown"
+      ]
+    },
+    "ek/0093-tension.svg": {
+      "md5": "aedd44c33b68606e33c94668f7b5aa34",
+      "bytes": 17396,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0093-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Underhand Cable Pulldowns"
+      ]
+    },
+    "ek/0096-tension.svg": {
+      "md5": "27d7a64dd3ef24884c9c966cd69c91d4",
+      "bytes": 16039,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0096-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "V-Bar Pulldown"
+      ]
+    },
+    "ek/0099-tension.svg": {
+      "md5": "6e375da8d9c85df0684d0f8f56db410d",
+      "bytes": 15764,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0099-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Barbell Deadlift"
+      ]
+    },
+    "ek/0113-tension.svg": {
+      "md5": "19233fcba2c4d9aa3cd3bfe1cc4fddc2",
+      "bytes": 16910,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0113-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Side Plank"
+      ]
+    },
+    "ek/0114-tension.svg": {
+      "md5": "312a5dd109b8c73f742aad14978b92bb",
+      "bytes": 28820,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0114-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Barbell Lunge"
+      ]
+    },
+    "ek/0115-tension.svg": {
+      "md5": "bfa79e343502fcbfb6d6f52251696947",
+      "bytes": 21867,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0115-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Dumbbell Lunges"
+      ]
+    },
+    "ek/0116-tension.svg": {
+      "md5": "ba7ba0835bd893692ba2b5cf90775d06",
+      "bytes": 10139,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0116-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Flutter Kicks"
+      ]
+    },
+    "ek/0117-tension.svg": {
+      "md5": "9b796beee5a1c8cb5432f14ffd8c5b8b",
+      "bytes": 17931,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0117-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Lying Leg Curl"
+      ]
+    },
+    "ek/0118-tension.svg": {
+      "md5": "18e5ed08b7fd883af4b928e764281310",
+      "bytes": 16069,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0118-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "RDL",
+        "Romanian Deadlift"
+      ]
+    },
+    "ek/0119-tension.svg": {
+      "md5": "13811c37d864edfa660fd4f63d656432",
+      "bytes": 20790,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0119-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Seated Leg Curl"
+      ]
+    },
+    "ek/0120-tension.svg": {
+      "md5": "e391a7ffc376c2cd20f4a74f8ee6d522",
+      "bytes": 25116,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0120-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Dumbbell Leg Curl"
+      ]
+    },
+    "ek/0121-tension.svg": {
+      "md5": "c6cb274776173148ed5f3d4cf97f1132",
+      "bytes": 21361,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0121-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Barbell Walking Lunge",
+        "Walking Lunge"
+      ]
+    },
+    "ek/0122-tension.svg": {
+      "md5": "d98352012a98d1ed9296df7e709d7d4f",
+      "bytes": 21025,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0122-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Barbell Squat"
+      ]
+    },
+    "ek/0123-tension.svg": {
+      "md5": "92111c72ba35abba46dd975548d5fb65",
+      "bytes": 18366,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0123-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Hack Squat"
+      ]
+    },
+    "ek/0124-tension.svg": {
+      "md5": "a072d585f082a57f03aef9c22685082d",
+      "bytes": 25409,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0124-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Smith Machine Squat"
+      ]
+    },
+    "ek/0125-tension.svg": {
+      "md5": "069bcfb67d72a37a6db5f16ca55a108a",
+      "bytes": 24490,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0125-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Barbell Hack Squat"
+      ]
+    },
+    "ek/0127-tension.svg": {
+      "md5": "a974abb5cfde48aaf9d0258aa2ba19f4",
+      "bytes": 25256,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0127-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Leg Press"
+      ]
+    },
+    "ek/0130-tension.svg": {
+      "md5": "0ea878a2ccf1819841d3262455229038",
+      "bytes": 19939,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0130-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Dumbbell Squat"
+      ]
+    },
+    "ek/0132-tension.svg": {
+      "md5": "f1b230e4a4c30240de5bb0db94f861e9",
+      "bytes": 18873,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0132-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Single-Leg Squat"
+      ]
+    },
+    "ek/0133-tension.svg": {
+      "md5": "5b939fe68757889f8380c262ccef9c41",
+      "bytes": 24885,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0133-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Barbell Squat To A Bench"
+      ]
+    },
+    "ek/0134-tension.svg": {
+      "md5": "17db7246d149a128be3741ed62ab3306",
+      "bytes": 26800,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0134-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Barbell Step Ups"
+      ]
+    },
+    "ek/0135-tension.svg": {
+      "md5": "cdbcfda23d9df30fe2eb9ee54d968748",
+      "bytes": 21398,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0135-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Cable Hip Adduction",
+        "Hip Adduction"
+      ]
+    },
+    "ek/0136-tension.svg": {
+      "md5": "aa35fe6f7589b72e0fcf168bb7a2ddfe",
+      "bytes": 24441,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0136-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Dumbbell Squat To A Bench"
+      ]
+    },
+    "ek/0137-tension.svg": {
+      "md5": "2b7c4a63bca5581fa1edbb1fb664e84f",
+      "bytes": 23681,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0137-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Dumbbell Step Ups"
+      ]
+    },
+    "ek/0138-tension.svg": {
+      "md5": "5326f29040c81c56033c4a7076491655",
+      "bytes": 20088,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0138-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Front Barbell Squat"
+      ]
+    },
+    "ek/0139-tension.svg": {
+      "md5": "23b9c26057b626b512c256b46d3b67df",
+      "bytes": 22973,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0139-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Front Barbell Squat To A Bench"
+      ]
+    },
+    "ek/0142-tension.svg": {
+      "md5": "aa56c00333b2e7ed810f75b1d876ef11",
+      "bytes": 20074,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0142-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Leg Extension",
+        "Leg Extensions"
+      ]
+    },
+    "ek/0143-tension.svg": {
+      "md5": "8d743f06a8be0c29cfebb7b0992feec5",
+      "bytes": 24470,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0143-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Narrow Stance Leg Press"
+      ]
+    },
+    "ek/0144-tension.svg": {
+      "md5": "25eab6d9b5590227630c57c14090453a",
+      "bytes": 22347,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0144-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Lying Machine Squat"
+      ]
+    },
+    "ek/0145-tension.svg": {
+      "md5": "de85cc524af7dac27dc3c662cc2d58ed",
+      "bytes": 18265,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0145-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Narrow Stance Hack Squats"
+      ]
+    },
+    "ek/0146-tension.svg": {
+      "md5": "396d380dc17b3946d39312802b8d7a8e",
+      "bytes": 21219,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0146-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Close Stance Squat",
+        "Narrow Stance Squats"
+      ]
+    },
+    "ek/0147-tension.svg": {
+      "md5": "196de2fe9d0a7258f92734d5f130e077",
+      "bytes": 15514,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0147-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "One Leg Barbell Squat"
+      ]
+    },
+    "ek/0150-tension.svg": {
+      "md5": "a440f185c9c78cd4c562b9548434f92e",
+      "bytes": 25499,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0150-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "One-Arm Side Deadlift"
+      ]
+    },
+    "ek/0154-tension.svg": {
+      "md5": "ad247490d532fd92a0b2700c14512ef1",
+      "bytes": 20081,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0154-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Speed Squats"
+      ]
+    },
+    "ek/0156-tension.svg": {
+      "md5": "e471fbf93529c46a3bcba508df78b49a",
+      "bytes": 18259,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0156-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Hip Abduction"
+      ]
+    },
+    "ek/0158-tension.svg": {
+      "md5": "68b6e9f3444e42037f27bb5b6367609b",
+      "bytes": 17985,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0158-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Weighted Sissy Squat"
+      ]
+    },
+    "ek/0160-tension.svg": {
+      "md5": "7c8e73e8cbe78412c33be123fd485b5d",
+      "bytes": 26168,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0160-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Wide Stance Barbell Squat"
+      ]
+    },
+    "ek/0162-tension.svg": {
+      "md5": "9e032e71c015e8a0bcaa18b76d621625",
+      "bytes": 20144,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0162-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Bench Dips"
+      ]
+    },
+    "ek/0163-tension.svg": {
+      "md5": "2cc7ca640b7fd51ecf5b918e371d6b82",
+      "bytes": 18216,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0163-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Cable Incline Pushdown"
+      ]
+    },
+    "ek/0164-tension.svg": {
+      "md5": "b65cd88d9e9e4ab4a708b2946bfe9e0a",
+      "bytes": 20611,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0164-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Cable Incline Triceps Extension"
+      ]
+    },
+    "ek/0165-tension.svg": {
+      "md5": "600b89a8a39c1f9d5d9317fe62acbef6",
+      "bytes": 19595,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0165-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Cable Lying Triceps Extension"
+      ]
+    },
+    "ek/0166-tension.svg": {
+      "md5": "75f347805249f46523053248ea302533",
+      "bytes": 20472,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0166-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Cable One Arm Tricep Extension"
+      ]
+    },
+    "ek/0169-tension.svg": {
+      "md5": "a4ba4bff0d127fab93111ea3f3184311",
+      "bytes": 21262,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0169-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Decline Dumbbell Triceps Extension"
+      ]
+    },
+    "ek/0170-tension.svg": {
+      "md5": "7955c3a4962670e089600c9d2811e69b",
+      "bytes": 23074,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0170-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Decline EZ Bar Triceps Extension"
+      ]
+    },
+    "ek/0171-tension.svg": {
+      "md5": "934d7075fde179a4f50afeffbb8742e9",
+      "bytes": 23819,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0171-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Dip Machine"
+      ]
+    },
+    "ek/0190-tension.svg": {
+      "md5": "7baabcda647773e4e16df0f441319ad6",
+      "bytes": 26588,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0190-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Reverse Triceps Bench Press"
+      ]
+    },
+    "ek/0193-tension.svg": {
+      "md5": "a8c8304419afc71305045b14f3fe9068",
+      "bytes": 28814,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0193-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Seated Barbell Overhead Triceps Extension",
+        "Seated EZ Bar Overhead Triceps Extension"
+      ]
+    },
+    "ek/0195-tension.svg": {
+      "md5": "ef29c6186e461b78066d40a436ca3b76",
+      "bytes": 26362,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0195-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Smith Machine Close-Grip Bench Press"
+      ]
+    },
+    "ek/0201-tension.svg": {
+      "md5": "f8ffa022a8fe5f5885fde680e61b2687",
+      "bytes": 25963,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0201-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Barbell Triceps Overhead Extension",
+        "EZ Bar Overhead Triceps Extension",
+        "Kettlebell Overhead Triceps Extension",
+        "Overhead Tricep Extension",
+        "Rope Overhead Triceps Extension"
+      ]
+    },
+    "ek/0204-tension.svg": {
+      "md5": "038017dae300bd0c402a229967982f6e",
+      "bytes": 20810,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0204-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Tricep Kickback"
+      ]
+    },
+    "ek/0205-tension.svg": {
+      "md5": "43166c97057b4441bf8c95a6d8e939ca",
+      "bytes": 19279,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0205-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Banded Pushdown",
+        "Cable Triceps Pushdown"
+      ]
+    },
+    "ek/0206-tension.svg": {
+      "md5": "7263d92dfae5be96f26c19723e0e521d",
+      "bytes": 20719,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0206-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Rope Pushdown"
+      ]
+    },
+    "ek/0211-tension.svg": {
+      "md5": "19e36394e0c44d178c80b1f1c51eb2a0",
+      "bytes": 23761,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0211-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Barbell Curl"
+      ]
+    },
+    "ek/0212-tension.svg": {
+      "md5": "eb117183496efaa25ddc63a8970fe842",
+      "bytes": 20708,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0212-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Cable Curl"
+      ]
+    },
+    "ek/0217-tension.svg": {
+      "md5": "f864d5dcf310aa1b2002357e68700b95",
+      "bytes": 18638,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0217-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Cable Preacher Curl"
+      ]
+    },
+    "ek/0218-tension.svg": {
+      "md5": "cc06dcf7060cd4b1cb9f47e6198c5ef9",
+      "bytes": 22934,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0218-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Close Grip Barbell Curl",
+        "Close-Grip EZ Bar Curl"
+      ]
+    },
+    "ek/0219-tension.svg": {
+      "md5": "e07d5ae5ac8fcaf581f6434f8dfa0f02",
+      "bytes": 22178,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0219-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Close-Grip Standing Barbell Curl"
+      ]
+    },
+    "ek/0220-tension.svg": {
+      "md5": "0a9425fb0beca88e248f17d8d4b4b9b7",
+      "bytes": 16821,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0220-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Concentration Curls"
+      ]
+    },
+    "ek/0221-tension.svg": {
+      "md5": "c78157e04155b7bb3b73e6bb0354049f",
+      "bytes": 19929,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0221-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Cross Body Hammer Curl"
+      ]
+    },
+    "ek/0222-tension.svg": {
+      "md5": "e66b316bf16bee9b956607ec3292672d",
+      "bytes": 24351,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0222-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Drag Curl"
+      ]
+    },
+    "ek/0223-tension.svg": {
+      "md5": "e9f296b7b46e39e61811872157320077",
+      "bytes": 21441,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0223-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Alternating Dumbbell Curl",
+        "Dumbbell Bicep Curl",
+        "Dumbbell Curl"
+      ]
+    },
+    "ek/0226-tension.svg": {
+      "md5": "fbf0967ca606f67bf870df3dbae09b02",
+      "bytes": 24311,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0226-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "EZ Bar Curl"
+      ]
+    },
+    "ek/0228-tension.svg": {
+      "md5": "ad2f1369cb82c97aa682a4c096ad103c",
+      "bytes": 18883,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0228-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Flexor Incline Dumbbell Curls"
+      ]
+    },
+    "ek/0229-tension.svg": {
+      "md5": "de2e897139c19b7af440cf3f84ffc2c2",
+      "bytes": 17532,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0229-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "High Cable Curls"
+      ]
+    },
+    "ek/0231-tension.svg": {
+      "md5": "25e064f7e74dbcd616a0f03e772cecea",
+      "bytes": 20927,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0231-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Incline Inner Biceps Curl"
+      ]
+    },
+    "ek/0245-tension.svg": {
+      "md5": "8ff373959fba05b8aa6da386e090cced",
+      "bytes": 20825,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0245-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Dumbbell Spider Curl"
+      ]
+    },
+    "ek/0272-tension.svg": {
+      "md5": "c82f8e984528f84cf52bfddf37d3e78c",
+      "bytes": 16657,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0272-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Barbell Seated Calf Raise",
+        "Seated Calf Raise"
+      ]
+    },
+    "ek/0273-tension.svg": {
+      "md5": "d3666a8decf56d093fcb31564fa71500",
+      "bytes": 25685,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0273-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Calf Press"
+      ]
+    },
+    "ek/0276-tension.svg": {
+      "md5": "e098d3a080254d3d74224de5ca9995c8",
+      "bytes": 14056,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0276-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Dumbbell Seated One-Leg Calf Raise"
+      ]
+    },
+    "ek/0284-tension.svg": {
+      "md5": "81ac33a298746fde1f968b18628bbd6f",
+      "bytes": 14141,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0284-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Air Bike"
+      ]
+    },
+    "ek/0285-tension.svg": {
+      "md5": "121fabbab18fc3cb223a6800d6122715",
+      "bytes": 21365,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0285-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Barbell Ab Rollout"
+      ]
+    },
+    "ek/0286-tension.svg": {
+      "md5": "ad70d028b9e48a5d8df0972b871db2bc",
+      "bytes": 20272,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0286-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Barbell Ab Rollout - On Knees"
+      ]
+    },
+    "ek/0287-tension.svg": {
+      "md5": "e243f902a4cf1a050e6facdf6f333f56",
+      "bytes": 17463,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0287-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Bent-Knee Hip Raise"
+      ]
+    },
+    "ek/0289-tension.svg": {
+      "md5": "d34a20dc6d3a3f4205bff573a60a9cfb",
+      "bytes": 13583,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0289-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Cross-Body Crunch"
+      ]
+    },
+    "ek/0291-tension.svg": {
+      "md5": "e3be70445e7eda6a24d20e92e9289f4f",
+      "bytes": 14213,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0291-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Crunches",
+        "Rope Crunch",
+        "Standing Rope Crunch"
+      ]
+    },
+    "ek/0292-tension.svg": {
+      "md5": "5d06a71c4558bdf67502eab83aa187cd",
+      "bytes": 14997,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0292-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Decline Crunch"
+      ]
+    },
+    "ek/0293-tension.svg": {
+      "md5": "d3bf7c52d8381db6fa7f3780fadc12bd",
+      "bytes": 17047,
+      "source": "everkinetic",
+      "author": "Everkinetic",
+      "source_url": "https://github.com/everkinetic/data/blob/446bb9a3d0c3beb6b84f7c9d77dfc8af707a2ab6/dist/svg/0293-tension.svg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "used_by": [
+        "Decline Oblique Crunch"
+      ]
+    },
+    "wger/04ab2679-a04d-4d05-9c85-0d36e898328c.webp": {
+      "md5": "ecd39d46bc64cb1f9299d8056d20c831",
+      "bytes": 30998,
+      "source": "wger",
+      "author": "AlucardEvil40",
+      "source_url": "https://wger.de/media/exercise-images/1651/04ab2679-a04d-4d05-9c85-0d36e898328c.webp",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Photo: AlucardEvil40 · CC BY-SA 4.0 (via wger.de)",
+      "used_by": [
+        "Dumbbell Rear Lunge"
+      ]
+    },
+    "wger/074e1766-4208-4a67-a211-9721772d99b0.png": {
+      "md5": "a3779267add87cabac957ba952a6d9a2",
+      "bytes": 64637,
+      "source": "wger",
+      "author": "prevail90",
+      "source_url": "https://wger.de/media/exercise-images/1194/074e1766-4208-4a67-a211-9721772d99b0.png",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Photo: prevail90 · CC BY-SA 4.0 (via wger.de)",
+      "used_by": [
+        "Pallof Press"
+      ]
+    },
+    "wger/1709c405-620a-4d07-9658-fade2b66a2df.jpeg": {
+      "md5": "82544dcd38393e55b5bfdd13ae7fec92",
+      "bytes": 46593,
+      "source": "wger",
+      "author": "philip",
+      "source_url": "https://wger.de/media/exercise-images/184/1709c405-620a-4d07-9658-fade2b66a2df.jpeg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Photo: philip · CC BY-SA 4.0 (via wger.de)",
+      "used_by": [
+        "Deadlift"
+      ]
+    },
+    "wger/1c052351-2af0-4227-aeb0-244008e4b0a8.jpeg": {
+      "md5": "c50a6fe3852bad14b95068f5de96dd51",
+      "bytes": 51046,
+      "source": "wger",
+      "author": "philip",
+      "source_url": "https://wger.de/media/exercise-images/203/1c052351-2af0-4227-aeb0-244008e4b0a8.jpeg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Photo: philip · CC BY-SA 4.0 (via wger.de)",
+      "used_by": [
+        "Goblet Squat"
+      ]
+    },
+    "wger/1d7a5336-ec0b-4898-a474-78ba32789bf3.webp": {
+      "md5": "9001e2987d7dac79fe8310fb17be5e95",
+      "bytes": 38402,
+      "source": "wger",
+      "author": "AlucardEvil40",
+      "source_url": "https://wger.de/media/exercise-images/1650/1d7a5336-ec0b-4898-a474-78ba32789bf3.webp",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Photo: AlucardEvil40 · CC BY-SA 4.0 (via wger.de)",
+      "used_by": [
+        "Dumbbell Side Bend"
+      ]
+    },
+    "wger/34600351-8b0b-4cb0-8daa-583537be15b0.png": {
+      "md5": "410fe2e2ea26582d46c0c028a04d5162",
+      "bytes": 198702,
+      "source": "wger",
+      "author": "cshep442",
+      "source_url": "https://wger.de/media/exercise-images/194/34600351-8b0b-4cb0-8daa-583537be15b0.png",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Photo: cshep442 · CC BY-SA 4.0 (via wger.de)",
+      "used_by": [
+        "Dip",
+        "Dips"
+      ]
+    },
+    "wger/3b681e59-377b-40db-9113-ca5873ce084b.jpg": {
+      "md5": "48ea15e345c3a3d6389927506d8c1fec",
+      "bytes": 11283,
+      "source": "wger",
+      "author": "wakanda90",
+      "source_url": "https://wger.de/media/exercise-images/456/3b681e59-377b-40db-9113-ca5873ce084b.jpg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Photo: wakanda90 · CC BY-SA 4.0 (via wger.de)",
+      "used_by": [
+        "Kettlebell Pistol Squat"
+      ]
+    },
+    "wger/5c7ffe68-e7b2-47f3-a22a-f9cc28640432.png": {
+      "md5": "ce911bbf8f47684e5b933477288685eb",
+      "bytes": 81175,
+      "source": "wger",
+      "author": "Franpol",
+      "source_url": "https://wger.de/media/exercise-images/984/5c7ffe68-e7b2-47f3-a22a-f9cc28640432.png",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Photo: Franpol · CC BY-SA 4.0 (via wger.de)",
+      "used_by": [
+        "Lunge"
+      ]
+    },
+    "wger/60043328-1cfb-4289-9865-aaf64d5aaa28.jpg": {
+      "md5": "f00380ebe5450ef946c26f9f04902902",
+      "bytes": 28878,
+      "source": "wger",
+      "author": "Workout Guru",
+      "source_url": "https://wger.de/media/exercise-images/1801/60043328-1cfb-4289-9865-aaf64d5aaa28.jpg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Photo: Workout Guru · CC BY-SA 4.0 (via wger.de)",
+      "used_by": [
+        "Barbell Full Squat"
+      ]
+    },
+    "wger/63ae02d6-6dd9-4e9e-84da-d4905e78a33c.jpg": {
+      "md5": "63b8d5c5e2dc3f7682b91bfbca978cc5",
+      "bytes": 64337,
+      "source": "wger",
+      "author": "AlucardEvil40",
+      "source_url": "https://wger.de/media/exercise-images/1648/63ae02d6-6dd9-4e9e-84da-d4905e78a33c.jpg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Photo: AlucardEvil40 · CC BY-SA 4.0 (via wger.de)",
+      "used_by": [
+        "Weighted Crunches"
+      ]
+    },
+    "wger/68d9488d-2596-420f-be0f-52aa70732c83.webp": {
+      "md5": "1d444fd8890acb2eaf89c29f000b2275",
+      "bytes": 30418,
+      "source": "wger",
+      "author": "AlucardEvil40",
+      "source_url": "https://wger.de/media/exercise-images/1641/68d9488d-2596-420f-be0f-52aa70732c83.webp",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Photo: AlucardEvil40 · CC BY-SA 4.0 (via wger.de)",
+      "used_by": [
+        "Kettlebell One-Legged Deadlift"
+      ]
+    },
+    "wger/6c1a7459-266d-491a-bd50-7cbaea2bc771.png": {
+      "md5": "fdc78ec6467cbf5a1bbc2db077332e35",
+      "bytes": 80163,
+      "source": "wger",
+      "author": "Everkinetic",
+      "source_url": "https://wger.de/media/exercise-images/152/6c1a7459-266d-491a-bd50-7cbaea2bc771.png",
+      "license": "CC BY-SA 3.0",
+      "modification": "unmodified",
+      "credit": "Photo: Everkinetic · CC BY-SA 3.0 (via wger.de)",
+      "used_by": [
+        "Chin-Up",
+        "Chin-Ups"
+      ]
+    },
+    "wger/70a2d72c-a822-45f3-8de2-54ea85951b84.jpg": {
+      "md5": "771d0681c49eaff7039f279f9ca02968",
+      "bytes": 29498,
+      "source": "wger",
+      "author": "philip",
+      "source_url": "https://wger.de/media/exercise-images/478/70a2d72c-a822-45f3-8de2-54ea85951b84.jpg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Photo: philip · CC BY-SA 4.0 (via wger.de)",
+      "used_by": [
+        "Double Kettlebell Push Press",
+        "Push Press"
+      ]
+    },
+    "wger/70ca5d80-3847-4a8c-8882-c6e9e485e29e.png": {
+      "md5": "8e3b946b1b672ef16573de0d218f28a2",
+      "bytes": 148371,
+      "source": "wger",
+      "author": "lion",
+      "source_url": "https://wger.de/media/exercise-images/1193/70ca5d80-3847-4a8c-8882-c6e9e485e29e.png",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Photo: lion · CC BY-SA 4.0 (via wger.de)",
+      "used_by": [
+        "Russian Twist"
+      ]
+    },
+    "wger/74affc0d-03b6-4f33-b5f4-a822a2615f68.png": {
+      "md5": "c5e340b5190c8d973f7a7503d5c9ee6e",
+      "bytes": 36361,
+      "source": "wger",
+      "author": "cshep442",
+      "source_url": "https://wger.de/media/exercise-images/822/74affc0d-03b6-4f33-b5f4-a822a2615f68.png",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Photo: cshep442 · CC BY-SA 4.0 (via wger.de)",
+      "used_by": [
+        "Cable Rear Delt Fly",
+        "Rear Delt Fly"
+      ]
+    },
+    "wger/83c52f8a-afc9-4fe2-b2ac-3f89f25958e5.jpg": {
+      "md5": "39e4c21c670db414b7e7e79e4dbe286b",
+      "bytes": 53708,
+      "source": "wger",
+      "author": "yuhonas/free-exercise-db",
+      "source_url": "https://wger.de/media/exercise-images/204/83c52f8a-afc9-4fe2-b2ac-3f89f25958e5.jpg",
+      "license": "CC0 1.0",
+      "modification": "unmodified",
+      "credit": "Photo: yuhonas/free-exercise-db · CC0 1.0",
+      "used_by": [
+        "Incline Dumbbell Curl"
+      ]
+    },
+    "wger/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg": {
+      "md5": "76f31b45621837621fe6bdd923de8899",
+      "bytes": 5665,
+      "source": "wger",
+      "author": "clafal",
+      "source_url": "https://wger.de/media/exercise-images/622/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Photo: clafal · CC BY-SA 4.0 (via wger.de)",
+      "used_by": [
+        "Bodyweight Standing Calf Raise",
+        "Calf Raise",
+        "Standing Calf Raise"
+      ]
+    },
+    "wger/9e730259-1dcd-4b5e-b4cc-9ebc0cfda75c.webp": {
+      "md5": "a3a92d174825329ea1bc5bc4e7871318",
+      "bytes": 36160,
+      "source": "wger",
+      "author": "AlucardEvil40",
+      "source_url": "https://wger.de/media/exercise-images/572/9e730259-1dcd-4b5e-b4cc-9ebc0cfda75c.webp",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Photo: AlucardEvil40 · CC BY-SA 4.0 (via wger.de)",
+      "used_by": [
+        "Dumbbell Shrug"
+      ]
+    },
+    "wger/a02c9c7d-f42d-43e0-9946-1b99b014daee.png": {
+      "md5": "23227fddec74eb55d903b3a9bb3b5fb8",
+      "bytes": 70648,
+      "source": "wger",
+      "author": "Everkinetic",
+      "source_url": "https://wger.de/media/exercise-images/1392/a02c9c7d-f42d-43e0-9946-1b99b014daee.png",
+      "license": "CC BY-SA 3.0",
+      "modification": "unmodified",
+      "credit": "Photo: Everkinetic · CC BY-SA 3.0 (via wger.de)",
+      "used_by": [
+        "Good Morning"
+      ]
+    },
+    "wger/a81ad922-caf5-47f8-99b4-640cb0717436.webp": {
+      "md5": "394e265db8e468d883a27e46c0137dfa",
+      "bytes": 29530,
+      "source": "wger",
+      "author": "AlucardEvil40",
+      "source_url": "https://wger.de/media/exercise-images/1642/a81ad922-caf5-47f8-99b4-640cb0717436.webp",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Photo: AlucardEvil40 · CC BY-SA 4.0 (via wger.de)",
+      "used_by": [
+        "Hip Thrust"
+      ]
+    },
+    "wger/aa724a58-b3b5-4522-b278-1155416236a5.jpg": {
+      "md5": "203a32b339b4cba1d80f5f6a2034b866",
+      "bytes": 45013,
+      "source": "wger",
+      "author": "roneydya",
+      "source_url": "https://wger.de/media/exercise-images/1654/aa724a58-b3b5-4522-b278-1155416236a5.jpg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Photo: roneydya · CC BY-SA 4.0 (via wger.de)",
+      "used_by": [
+        "Machine Lateral Raise"
+      ]
+    },
+    "wger/b318dde9-f5f2-489f-940a-cd864affb9e3.png": {
+      "md5": "4ee8e2400dce7a91ce8509e1fe0d1f41",
+      "bytes": 54829,
+      "source": "wger",
+      "author": "Franpol",
+      "source_url": "https://wger.de/media/exercise-images/364/b318dde9-f5f2-489f-940a-cd864affb9e3.png",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Photo: Franpol · CC BY-SA 4.0 (via wger.de)",
+      "used_by": [
+        "Leg Curl"
+      ]
+    },
+    "wger/b7def5bc-2352-499b-b9e5-fff741003831.png": {
+      "md5": "5513d8f5e987b7be49a12496d82582f3",
+      "bytes": 34059,
+      "source": "wger",
+      "author": "philip",
+      "source_url": "https://wger.de/media/exercise-images/256/b7def5bc-2352-499b-b9e5-fff741003831.png",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Photo: philip · CC BY-SA 4.0 (via wger.de)",
+      "used_by": [
+        "Barbell Front Raise",
+        "Front Raise"
+      ]
+    },
+    "wger/Barbell-rear-delt-row-1.png": {
+      "md5": "9209994d72e90a32b66d61a450197b26",
+      "bytes": 55733,
+      "source": "wger",
+      "author": "Everkinetic",
+      "source_url": "https://wger.de/media/exercise-images/109/Barbell-rear-delt-row-1.png",
+      "license": "CC BY-SA 3.0",
+      "modification": "unmodified",
+      "credit": "Photo: Everkinetic · CC BY-SA 3.0 (via wger.de)",
+      "used_by": [
+        "Alternating Kettlebell Row",
+        "Barbell Row",
+        "Bent Over Barbell Row",
+        "Bent Over Two-Dumbbell Row",
+        "Bent over Row",
+        "DB Row",
+        "Dumbbell Row",
+        "Row"
+      ]
+    },
+    "wger/Bicep-hammer-curl-1.png": {
+      "md5": "b4cae70abf805df546a803cf8049282a",
+      "bytes": 125929,
+      "source": "wger",
+      "author": "Everkinetic",
+      "source_url": "https://wger.de/media/exercise-images/86/Bicep-hammer-curl-1.png",
+      "license": "CC BY-SA 3.0",
+      "modification": "unmodified",
+      "credit": "Photo: Everkinetic · CC BY-SA 3.0 (via wger.de)",
+      "used_by": [
+        "Hammer Curl",
+        "Hammer Curls"
+      ]
+    },
+    "wger/c5ca283d-8958-4fd8-9d59-a3f52a3ac66b.jpg": {
+      "md5": "bc58ff67b3d6d1acfc28d7dd5517432e",
+      "bytes": 110330,
+      "source": "wger",
+      "author": "anto.kreegyr",
+      "source_url": "https://wger.de/media/exercise-images/1185/c5ca283d-8958-4fd8-9d59-a3f52a3ac66b.jpg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Photo: anto.kreegyr · CC BY-SA 4.0 (via wger.de)",
+      "used_by": [
+        "Tricep Pushdown"
+      ]
+    },
+    "wger/d0931eb3-8db0-4049-bb08-aa4036072056.jfif": {
+      "md5": "fbe4ecb3b6b60d182962ddee4d30964b",
+      "bytes": 35828,
+      "source": "wger",
+      "author": "philip",
+      "source_url": "https://wger.de/media/exercise-images/999/d0931eb3-8db0-4049-bb08-aa4036072056.jfif",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Photo: philip · CC BY-SA 4.0 (via wger.de)",
+      "used_by": [
+        "Dumbbell Reverse Lunge",
+        "Reverse Lunge"
+      ]
+    },
+    "wger/e7262f70-7512-408a-8d00-4c499ef632fc.jpg": {
+      "md5": "f0ab940e1fe2a2d599336760ebe312c1",
+      "bytes": 30935,
+      "source": "wger",
+      "author": "carlos3c",
+      "source_url": "https://wger.de/media/exercise-images/1283/e7262f70-7512-408a-8d00-4c499ef632fc.jpg",
+      "license": "CC BY-SA 4.0",
+      "modification": "unmodified",
+      "credit": "Photo: carlos3c · CC BY-SA 4.0 (via wger.de)",
+      "used_by": [
+        "Chest Supported Row"
+      ]
+    },
+    "wger/Incline-bench-press-1.png": {
+      "md5": "400b3a320b3a895fc5deb95182f8bf00",
+      "bytes": 53518,
+      "source": "wger",
+      "author": "Everkinetic",
+      "source_url": "https://wger.de/media/exercise-images/41/Incline-bench-press-1.png",
+      "license": "CC BY-SA 3.0",
+      "modification": "unmodified",
+      "credit": "Photo: Everkinetic · CC BY-SA 3.0 (via wger.de)",
+      "used_by": [
+        "Incline Barbell Bench Press"
+      ]
+    },
+    "wger/Preacher-curl-3-1.png": {
+      "md5": "2f14ec91ab0922c3af3843c3e1b780ca",
+      "bytes": 81230,
+      "source": "wger",
+      "author": "Everkinetic",
+      "source_url": "https://wger.de/media/exercise-images/193/Preacher-curl-3-1.png",
+      "license": "CC BY-SA 3.0",
+      "modification": "unmodified",
+      "credit": "Photo: Everkinetic · CC BY-SA 3.0 (via wger.de)",
+      "used_by": [
+        "Preacher Curl"
+      ]
+    },
+    "wger/Shoulder-press-machine-2.png": {
+      "md5": "398811592a059fd4ba5a905552196f52",
+      "bytes": 49744,
+      "source": "wger",
+      "author": "wger.de",
+      "source_url": "https://wger.de/media/exercise-images/53/Shoulder-press-machine-2.png",
+      "license": "CC BY-SA 3.0",
+      "modification": "unmodified",
+      "credit": "Photo: wger.de · CC BY-SA 3.0 (via wger.de)",
+      "used_by": [
+        "Machine Shoulder Press",
+        "Shoulder Press"
+      ]
+    },
+    "apex/arnold-press-set3-thumb.svg": {
+      "md5": "aff9cac674074151a8cbff657c124ce6",
+      "bytes": 6435,
+      "source": "apex",
+      "author": "APEX",
+      "source_url": null,
+      "license": "APEX original",
+      "modification": null,
+      "credit": "Illustration: APEX original",
+      "role": "thumb",
+      "used_by": [
+        "Arnold Press",
+        "Arnold Dumbbell Press"
+      ]
+    },
+    "apex/arnold-press-set3.svg": {
+      "md5": "d42b96b1097cb3aac1c57c7770dd9a90",
+      "bytes": 11656,
+      "source": "apex",
+      "author": "APEX",
+      "source_url": null,
+      "license": "APEX original",
+      "modification": null,
+      "credit": "Illustration: APEX original",
+      "role": "drawing",
+      "used_by": [
+        "Arnold Press",
+        "Arnold Dumbbell Press"
+      ]
+    },
+    "apex/lat-pulldown-narrow-set3-thumb.svg": {
+      "md5": "5598a182f0f2852994351b7be1cfd593",
+      "bytes": 5132,
+      "source": "apex",
+      "author": "APEX",
+      "source_url": null,
+      "license": "APEX original",
+      "modification": null,
+      "credit": "Illustration: APEX original",
+      "role": "thumb",
+      "used_by": [
+        "Narrow Grip Pulldown",
+        "Close-Grip Front Lat Pulldown"
+      ]
+    },
+    "apex/lat-pulldown-narrow-set3.svg": {
+      "md5": "0f40e4cbfef5eae60c5187a6fd193788",
+      "bytes": 10637,
+      "source": "apex",
+      "author": "APEX",
+      "source_url": null,
+      "license": "APEX original",
+      "modification": null,
+      "credit": "Illustration: APEX original",
+      "role": "drawing",
+      "used_by": [
+        "Narrow Grip Pulldown",
+        "Close-Grip Front Lat Pulldown"
+      ]
+    },
+    "apex/lat-pulldown-wide-set3-thumb.svg": {
+      "md5": "21dd6511e22b46438cbb30069e455568",
+      "bytes": 5352,
+      "source": "apex",
+      "author": "APEX",
+      "source_url": null,
+      "license": "APEX original",
+      "modification": null,
+      "credit": "Illustration: APEX original",
+      "role": "thumb",
+      "used_by": [
+        "Wide Grip Pulldown",
+        "Wide-Grip Lat Pulldown",
+        "Lat Pulldown",
+        "Pulldown",
+        "Full Range-Of-Motion Lat Pulldown"
+      ]
+    },
+    "apex/lat-pulldown-wide-set3.svg": {
+      "md5": "7d09170f36b43a9e73a744514a92a54f",
+      "bytes": 11320,
+      "source": "apex",
+      "author": "APEX",
+      "source_url": null,
+      "license": "APEX original",
+      "modification": null,
+      "credit": "Illustration: APEX original",
+      "role": "drawing",
+      "used_by": [
+        "Wide Grip Pulldown",
+        "Wide-Grip Lat Pulldown",
+        "Lat Pulldown",
+        "Pulldown",
+        "Full Range-Of-Motion Lat Pulldown"
+      ]
+    },
+    "apex/pendlay-row-set3-thumb.svg": {
+      "md5": "1b39e8a1630f63181d6896a5ccf54097",
+      "bytes": 3685,
+      "source": "apex",
+      "author": "APEX",
+      "source_url": null,
+      "license": "APEX original",
+      "modification": null,
+      "credit": "Illustration: APEX original",
+      "role": "thumb",
+      "used_by": [
+        "Pendlay Row"
+      ]
+    },
+    "apex/pendlay-row-set3.svg": {
+      "md5": "772edfc1b49ae9cc78a684482da74631",
+      "bytes": 11241,
+      "source": "apex",
+      "author": "APEX",
+      "source_url": null,
+      "license": "APEX original",
+      "modification": null,
+      "credit": "Illustration: APEX original",
+      "role": "drawing",
+      "used_by": [
+        "Pendlay Row"
+      ]
+    }
+  },
+  "lifts": {
+    "Air Bike": {
+      "path": "ek/0284-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "81ac33a298746fde1f968b18628bbd6f"
+    },
+    "Alternating Dumbbell Curl": {
+      "path": "ek/0223-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "e9f296b7b46e39e61811872157320077"
+    },
+    "Alternating Kettlebell Row": {
+      "path": "wger/Barbell-rear-delt-row-1.png",
+      "credit": "Photo: Everkinetic · CC BY-SA 3.0 (via wger.de)",
+      "md5": "9209994d72e90a32b66d61a450197b26"
+    },
+    "Arnold Dumbbell Press": {
+      "path": "apex/arnold-press-set3.svg",
+      "credit": "Illustration: APEX original",
+      "md5": "d42b96b1097cb3aac1c57c7770dd9a90",
+      "thumb": "apex/arnold-press-set3-thumb.svg",
+      "thumb_md5": "aff9cac674074151a8cbff657c124ce6"
+    },
+    "Arnold Press": {
+      "path": "apex/arnold-press-set3.svg",
+      "credit": "Illustration: APEX original",
+      "md5": "d42b96b1097cb3aac1c57c7770dd9a90",
+      "thumb": "apex/arnold-press-set3-thumb.svg",
+      "thumb_md5": "aff9cac674074151a8cbff657c124ce6"
+    },
+    "Banded Pushdown": {
+      "path": "ek/0205-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "43166c97057b4441bf8c95a6d8e939ca"
+    },
+    "Barbell Ab Rollout": {
+      "path": "ek/0285-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "121fabbab18fc3cb223a6800d6122715"
+    },
+    "Barbell Ab Rollout - On Knees": {
+      "path": "ek/0286-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "ad70d028b9e48a5d8df0972b871db2bc"
+    },
+    "Barbell Curl": {
+      "path": "ek/0211-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "19e36394e0c44d178c80b1f1c51eb2a0"
+    },
+    "Barbell Deadlift": {
+      "path": "ek/0099-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "6e375da8d9c85df0684d0f8f56db410d"
+    },
+    "Barbell Front Raise": {
+      "path": "wger/b7def5bc-2352-499b-b9e5-fff741003831.png",
+      "credit": "Photo: philip · CC BY-SA 4.0 (via wger.de)",
+      "md5": "5513d8f5e987b7be49a12496d82582f3"
+    },
+    "Barbell Full Squat": {
+      "path": "wger/60043328-1cfb-4289-9865-aaf64d5aaa28.jpg",
+      "credit": "Photo: Workout Guru · CC BY-SA 4.0 (via wger.de)",
+      "md5": "f00380ebe5450ef946c26f9f04902902"
+    },
+    "Barbell Hack Squat": {
+      "path": "ek/0125-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "069bcfb67d72a37a6db5f16ca55a108a"
+    },
+    "Barbell Lunge": {
+      "path": "ek/0114-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "312a5dd109b8c73f742aad14978b92bb"
+    },
+    "Barbell Row": {
+      "path": "wger/Barbell-rear-delt-row-1.png",
+      "credit": "Photo: Everkinetic · CC BY-SA 3.0 (via wger.de)",
+      "md5": "9209994d72e90a32b66d61a450197b26"
+    },
+    "Barbell Seated Calf Raise": {
+      "path": "ek/0272-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "c82f8e984528f84cf52bfddf37d3e78c"
+    },
+    "Barbell Shrug": {
+      "path": "ek/0030-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "fd934350bc4b418d7af4b9b55155ada6"
+    },
+    "Barbell Squat": {
+      "path": "ek/0122-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "d98352012a98d1ed9296df7e709d7d4f"
+    },
+    "Barbell Squat To A Bench": {
+      "path": "ek/0133-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "5b939fe68757889f8380c262ccef9c41"
+    },
+    "Barbell Step Ups": {
+      "path": "ek/0134-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "17db7246d149a128be3741ed62ab3306"
+    },
+    "Barbell Triceps Overhead Extension": {
+      "path": "ek/0201-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "f8ffa022a8fe5f5885fde680e61b2687"
+    },
+    "Barbell Upright Row": {
+      "path": "ek/0014-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "244289e1a47f9f417a418c7cfb9d3dd2"
+    },
+    "Barbell Walking Lunge": {
+      "path": "ek/0121-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "c6cb274776173148ed5f3d4cf97f1132"
+    },
+    "Bench Dips": {
+      "path": "ek/0162-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "9e032e71c015e8a0bcaa18b76d621625"
+    },
+    "Bench Press": {
+      "path": "ek/0042-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "0f06ae383fcb4a00f8ca865e8d038e7f"
+    },
+    "Bent Over Barbell Row": {
+      "path": "wger/Barbell-rear-delt-row-1.png",
+      "credit": "Photo: Everkinetic · CC BY-SA 3.0 (via wger.de)",
+      "md5": "9209994d72e90a32b66d61a450197b26"
+    },
+    "Bent Over Dumbbell Rear Delt Raise With Head On Bench": {
+      "path": "ek/0032-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "baf28a064ddb246fcedb6bdf5c1a4319"
+    },
+    "Bent Over Two-Dumbbell Row": {
+      "path": "wger/Barbell-rear-delt-row-1.png",
+      "credit": "Photo: Everkinetic · CC BY-SA 3.0 (via wger.de)",
+      "md5": "9209994d72e90a32b66d61a450197b26"
+    },
+    "Bent over Row": {
+      "path": "wger/Barbell-rear-delt-row-1.png",
+      "credit": "Photo: Everkinetic · CC BY-SA 3.0 (via wger.de)",
+      "md5": "9209994d72e90a32b66d61a450197b26"
+    },
+    "Bent-Arm Dumbbell Pullover": {
+      "path": "ek/0046-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "5b6edb3e771142fcbaa7ac7b454a75f4"
+    },
+    "Bent-Knee Hip Raise": {
+      "path": "ek/0287-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "e243f902a4cf1a050e6facdf6f333f56"
+    },
+    "Bodyweight Standing Calf Raise": {
+      "path": "wger/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg",
+      "credit": "Photo: clafal · CC BY-SA 4.0 (via wger.de)",
+      "md5": "76f31b45621837621fe6bdd923de8899"
+    },
+    "Cable Crossover": {
+      "path": "ek/0048-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "12e0f1a8585f00c6205b7cb942e63027"
+    },
+    "Cable Curl": {
+      "path": "ek/0212-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "eb117183496efaa25ddc63a8970fe842"
+    },
+    "Cable Fly": {
+      "path": "ek/0057-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "3b93e2810cf42696afcb0d3ab2b6bd21"
+    },
+    "Cable Hip Adduction": {
+      "path": "ek/0135-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "cdbcfda23d9df30fe2eb9ee54d968748"
+    },
+    "Cable Incline Fly": {
+      "path": "ek/0060-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "f4a04f99ec8a9ab8a12493848e520de2"
+    },
+    "Cable Incline Pushdown": {
+      "path": "ek/0163-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "2cc7ca640b7fd51ecf5b918e371d6b82"
+    },
+    "Cable Incline Triceps Extension": {
+      "path": "ek/0164-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "b65cd88d9e9e4ab4a708b2946bfe9e0a"
+    },
+    "Cable Internal Rotation": {
+      "path": "ek/0034-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "83b9b466e2427e5fac2b2f929117f680"
+    },
+    "Cable Lying Triceps Extension": {
+      "path": "ek/0165-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "600b89a8a39c1f9d5d9317fe62acbef6"
+    },
+    "Cable One Arm Tricep Extension": {
+      "path": "ek/0166-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "75f347805249f46523053248ea302533"
+    },
+    "Cable Preacher Curl": {
+      "path": "ek/0217-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "f864d5dcf310aa1b2002357e68700b95"
+    },
+    "Cable Rear Delt Fly": {
+      "path": "wger/74affc0d-03b6-4f33-b5f4-a822a2615f68.png",
+      "credit": "Photo: cshep442 · CC BY-SA 4.0 (via wger.de)",
+      "md5": "c5e340b5190c8d973f7a7503d5c9ee6e"
+    },
+    "Cable Shrugs": {
+      "path": "ek/0030-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "fd934350bc4b418d7af4b9b55155ada6"
+    },
+    "Cable Triceps Pushdown": {
+      "path": "ek/0205-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "43166c97057b4441bf8c95a6d8e939ca"
+    },
+    "Cable Upright Row": {
+      "path": "ek/0015-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "2e19ba160e49df5c227c6e2bca15ee2e"
+    },
+    "Calf Press": {
+      "path": "ek/0273-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "d3666a8decf56d093fcb31564fa71500"
+    },
+    "Calf Raise": {
+      "path": "wger/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg",
+      "credit": "Photo: clafal · CC BY-SA 4.0 (via wger.de)",
+      "md5": "76f31b45621837621fe6bdd923de8899"
+    },
+    "Chest Supported Row": {
+      "path": "wger/e7262f70-7512-408a-8d00-4c499ef632fc.jpg",
+      "credit": "Photo: carlos3c · CC BY-SA 4.0 (via wger.de)",
+      "md5": "f0ab940e1fe2a2d599336760ebe312c1"
+    },
+    "Chin-Up": {
+      "path": "wger/6c1a7459-266d-491a-bd50-7cbaea2bc771.png",
+      "credit": "Photo: Everkinetic · CC BY-SA 3.0 (via wger.de)",
+      "md5": "fdc78ec6467cbf5a1bbc2db077332e35"
+    },
+    "Chin-Ups": {
+      "path": "wger/6c1a7459-266d-491a-bd50-7cbaea2bc771.png",
+      "credit": "Photo: Everkinetic · CC BY-SA 3.0 (via wger.de)",
+      "md5": "fdc78ec6467cbf5a1bbc2db077332e35"
+    },
+    "Close Grip Barbell Curl": {
+      "path": "ek/0218-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "cc06dcf7060cd4b1cb9f47e6198c5ef9"
+    },
+    "Close Stance Squat": {
+      "path": "ek/0146-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "396d380dc17b3946d39312802b8d7a8e"
+    },
+    "Close-Grip Barbell Bench Press": {
+      "path": "ek/0049-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "146b171f6c71968cc2ee740b92cffcc6"
+    },
+    "Close-Grip EZ Bar Curl": {
+      "path": "ek/0218-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "cc06dcf7060cd4b1cb9f47e6198c5ef9"
+    },
+    "Close-Grip Front Lat Pulldown": {
+      "path": "apex/lat-pulldown-narrow-set3.svg",
+      "credit": "Illustration: APEX original",
+      "md5": "0f40e4cbfef5eae60c5187a6fd193788",
+      "thumb": "apex/lat-pulldown-narrow-set3-thumb.svg",
+      "thumb_md5": "5598a182f0f2852994351b7be1cfd593"
+    },
+    "Close-Grip Standing Barbell Curl": {
+      "path": "ek/0219-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "e07d5ae5ac8fcaf581f6434f8dfa0f02"
+    },
+    "Concentration Curls": {
+      "path": "ek/0220-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "0a9425fb0beca88e248f17d8d4b4b9b7"
+    },
+    "Cross Body Hammer Curl": {
+      "path": "ek/0221-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "c78157e04155b7bb3b73e6bb0354049f"
+    },
+    "Cross-Body Crunch": {
+      "path": "ek/0289-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "d34a20dc6d3a3f4205bff573a60a9cfb"
+    },
+    "Crunches": {
+      "path": "ek/0291-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "e3be70445e7eda6a24d20e92e9289f4f"
+    },
+    "DB Fly": {
+      "path": "ek/0056-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "942ca377b3130697c734b8d11c644cc8"
+    },
+    "DB Row": {
+      "path": "wger/Barbell-rear-delt-row-1.png",
+      "credit": "Photo: Everkinetic · CC BY-SA 3.0 (via wger.de)",
+      "md5": "9209994d72e90a32b66d61a450197b26"
+    },
+    "Deadlift": {
+      "path": "wger/1709c405-620a-4d07-9658-fade2b66a2df.jpeg",
+      "credit": "Photo: philip · CC BY-SA 4.0 (via wger.de)",
+      "md5": "82544dcd38393e55b5bfdd13ae7fec92"
+    },
+    "Decline Barbell Bench Press": {
+      "path": "ek/0051-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "499f4ae3b867b9670625920ab5b29424"
+    },
+    "Decline Crunch": {
+      "path": "ek/0292-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "5d06a71c4558bdf67502eab83aa187cd"
+    },
+    "Decline Dumbbell Bench Press": {
+      "path": "ek/0052-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "5f839fe267974898766146e76332d146"
+    },
+    "Decline Dumbbell Flyes": {
+      "path": "ek/0053-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "c1f6155653da456079141e7ea8d96171"
+    },
+    "Decline Dumbbell Triceps Extension": {
+      "path": "ek/0169-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "a4ba4bff0d127fab93111ea3f3184311"
+    },
+    "Decline EZ Bar Triceps Extension": {
+      "path": "ek/0170-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "7955c3a4962670e089600c9d2811e69b"
+    },
+    "Decline Oblique Crunch": {
+      "path": "ek/0293-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "d3bf7c52d8381db6fa7f3780fadc12bd"
+    },
+    "Dip": {
+      "path": "wger/34600351-8b0b-4cb0-8daa-583537be15b0.png",
+      "credit": "Photo: cshep442 · CC BY-SA 4.0 (via wger.de)",
+      "md5": "410fe2e2ea26582d46c0c028a04d5162"
+    },
+    "Dip Machine": {
+      "path": "ek/0171-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "934d7075fde179a4f50afeffbb8742e9"
+    },
+    "Dips": {
+      "path": "wger/34600351-8b0b-4cb0-8daa-583537be15b0.png",
+      "credit": "Photo: cshep442 · CC BY-SA 4.0 (via wger.de)",
+      "md5": "410fe2e2ea26582d46c0c028a04d5162"
+    },
+    "Double Kettlebell Push Press": {
+      "path": "wger/70a2d72c-a822-45f3-8de2-54ea85951b84.jpg",
+      "credit": "Photo: philip · CC BY-SA 4.0 (via wger.de)",
+      "md5": "771d0681c49eaff7039f279f9ca02968"
+    },
+    "Drag Curl": {
+      "path": "ek/0222-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "e66b316bf16bee9b956607ec3292672d"
+    },
+    "Dumbbell Bench Press": {
+      "path": "ek/0055-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "54f6a2a7e883d1b114462067707004ce"
+    },
+    "Dumbbell Bicep Curl": {
+      "path": "ek/0223-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "e9f296b7b46e39e61811872157320077"
+    },
+    "Dumbbell Chest Fly": {
+      "path": "ek/0056-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "942ca377b3130697c734b8d11c644cc8"
+    },
+    "Dumbbell Curl": {
+      "path": "ek/0223-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "e9f296b7b46e39e61811872157320077"
+    },
+    "Dumbbell Flyes": {
+      "path": "ek/0056-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "942ca377b3130697c734b8d11c644cc8"
+    },
+    "Dumbbell Front Raise": {
+      "path": "ek/0033-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "e1193163cd4bf2dbf8b87ed684e8e55c"
+    },
+    "Dumbbell Leg Curl": {
+      "path": "ek/0120-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "e391a7ffc376c2cd20f4a74f8ee6d522"
+    },
+    "Dumbbell Lunges": {
+      "path": "ek/0115-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "bfa79e343502fcbfb6d6f52251696947"
+    },
+    "Dumbbell One-Arm Shoulder Press": {
+      "path": "ek/0038-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "77e6cd856680fbe73f54939518a7bf1e"
+    },
+    "Dumbbell One-Arm Upright Row": {
+      "path": "ek/0039-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "a7a0a1bb8415f510bd4573d32eb5b0b2"
+    },
+    "Dumbbell Rear Lunge": {
+      "path": "wger/04ab2679-a04d-4d05-9c85-0d36e898328c.webp",
+      "credit": "Photo: AlucardEvil40 · CC BY-SA 4.0 (via wger.de)",
+      "md5": "ecd39d46bc64cb1f9299d8056d20c831"
+    },
+    "Dumbbell Reverse Lunge": {
+      "path": "wger/d0931eb3-8db0-4049-bb08-aa4036072056.jfif",
+      "credit": "Photo: philip · CC BY-SA 4.0 (via wger.de)",
+      "md5": "fbe4ecb3b6b60d182962ddee4d30964b"
+    },
+    "Dumbbell Row": {
+      "path": "wger/Barbell-rear-delt-row-1.png",
+      "credit": "Photo: Everkinetic · CC BY-SA 3.0 (via wger.de)",
+      "md5": "9209994d72e90a32b66d61a450197b26"
+    },
+    "Dumbbell Seated One-Leg Calf Raise": {
+      "path": "ek/0276-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "e098d3a080254d3d74224de5ca9995c8"
+    },
+    "Dumbbell Shrug": {
+      "path": "wger/9e730259-1dcd-4b5e-b4cc-9ebc0cfda75c.webp",
+      "credit": "Photo: AlucardEvil40 · CC BY-SA 4.0 (via wger.de)",
+      "md5": "a3a92d174825329ea1bc5bc4e7871318"
+    },
+    "Dumbbell Side Bend": {
+      "path": "wger/1d7a5336-ec0b-4898-a474-78ba32789bf3.webp",
+      "credit": "Photo: AlucardEvil40 · CC BY-SA 4.0 (via wger.de)",
+      "md5": "9001e2987d7dac79fe8310fb17be5e95"
+    },
+    "Dumbbell Side Lateral Raise": {
+      "path": "ek/0018-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "29d2b6a423daacb1dbcab9eccb8f2752"
+    },
+    "Dumbbell Spider Curl": {
+      "path": "ek/0245-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "8ff373959fba05b8aa6da386e090cced"
+    },
+    "Dumbbell Squat": {
+      "path": "ek/0130-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "0ea878a2ccf1819841d3262455229038"
+    },
+    "Dumbbell Squat To A Bench": {
+      "path": "ek/0136-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "aa35fe6f7589b72e0fcf168bb7a2ddfe"
+    },
+    "Dumbbell Step Ups": {
+      "path": "ek/0137-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "2b7c4a63bca5581fa1edbb1fb664e84f"
+    },
+    "Dumbbell Upright Row": {
+      "path": "ek/0016-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "3d0bb2678edea061a42a8bfb054a3047"
+    },
+    "EZ Bar Curl": {
+      "path": "ek/0226-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "fbf0967ca606f67bf870df3dbae09b02"
+    },
+    "EZ Bar Overhead Triceps Extension": {
+      "path": "ek/0201-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "f8ffa022a8fe5f5885fde680e61b2687"
+    },
+    "Flexor Incline Dumbbell Curls": {
+      "path": "ek/0228-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "ad2f1369cb82c97aa682a4c096ad103c"
+    },
+    "Flutter Kicks": {
+      "path": "ek/0116-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "ba7ba0835bd893692ba2b5cf90775d06"
+    },
+    "Front Barbell Squat": {
+      "path": "ek/0138-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "5326f29040c81c56033c4a7076491655"
+    },
+    "Front Barbell Squat To A Bench": {
+      "path": "ek/0139-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "23b9c26057b626b512c256b46d3b67df"
+    },
+    "Front Cable Raise": {
+      "path": "ek/0008-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "138c1c4c139c55efc5aaa8ba03cb2474"
+    },
+    "Front Dumbbell Raise": {
+      "path": "ek/0033-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "e1193163cd4bf2dbf8b87ed684e8e55c"
+    },
+    "Front Raise": {
+      "path": "wger/b7def5bc-2352-499b-b9e5-fff741003831.png",
+      "credit": "Photo: philip · CC BY-SA 4.0 (via wger.de)",
+      "md5": "5513d8f5e987b7be49a12496d82582f3"
+    },
+    "Front Raise And Pullover": {
+      "path": "ek/0058-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "89c34e608221096d6de72ae9a21d42be"
+    },
+    "Front Two-Dumbbell Raise": {
+      "path": "ek/0033-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "e1193163cd4bf2dbf8b87ed684e8e55c"
+    },
+    "Full Range-Of-Motion Lat Pulldown": {
+      "path": "apex/lat-pulldown-wide-set3.svg",
+      "credit": "Illustration: APEX original",
+      "md5": "7d09170f36b43a9e73a744514a92a54f",
+      "thumb": "apex/lat-pulldown-wide-set3-thumb.svg",
+      "thumb_md5": "21dd6511e22b46438cbb30069e455568"
+    },
+    "Goblet Squat": {
+      "path": "wger/1c052351-2af0-4227-aeb0-244008e4b0a8.jpeg",
+      "credit": "Photo: philip · CC BY-SA 4.0 (via wger.de)",
+      "md5": "c50a6fe3852bad14b95068f5de96dd51"
+    },
+    "Good Morning": {
+      "path": "wger/a02c9c7d-f42d-43e0-9946-1b99b014daee.png",
+      "credit": "Photo: Everkinetic · CC BY-SA 3.0 (via wger.de)",
+      "md5": "23227fddec74eb55d903b3a9bb3b5fb8"
+    },
+    "Hack Squat": {
+      "path": "ek/0123-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "92111c72ba35abba46dd975548d5fb65"
+    },
+    "Hammer Curl": {
+      "path": "wger/Bicep-hammer-curl-1.png",
+      "credit": "Photo: Everkinetic · CC BY-SA 3.0 (via wger.de)",
+      "md5": "b4cae70abf805df546a803cf8049282a"
+    },
+    "Hammer Curls": {
+      "path": "wger/Bicep-hammer-curl-1.png",
+      "credit": "Photo: Everkinetic · CC BY-SA 3.0 (via wger.de)",
+      "md5": "b4cae70abf805df546a803cf8049282a"
+    },
+    "High Cable Curls": {
+      "path": "ek/0229-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "de2e897139c19b7af440cf3f84ffc2c2"
+    },
+    "Hip Abduction": {
+      "path": "ek/0156-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "e471fbf93529c46a3bcba508df78b49a"
+    },
+    "Hip Adduction": {
+      "path": "ek/0135-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "cdbcfda23d9df30fe2eb9ee54d968748"
+    },
+    "Hip Thrust": {
+      "path": "wger/a81ad922-caf5-47f8-99b4-640cb0717436.webp",
+      "credit": "Photo: AlucardEvil40 · CC BY-SA 4.0 (via wger.de)",
+      "md5": "394e265db8e468d883a27e46c0137dfa"
+    },
+    "Incline Barbell Bench Press": {
+      "path": "wger/Incline-bench-press-1.png",
+      "credit": "Photo: Everkinetic · CC BY-SA 3.0 (via wger.de)",
+      "md5": "400b3a320b3a895fc5deb95182f8bf00"
+    },
+    "Incline Bench Press": {
+      "path": "ek/0043-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "c320a86d1244b975b90861045826b84b"
+    },
+    "Incline DB Fly": {
+      "path": "ek/0062-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "f9d46fe4e2a4945eea550086e01573bd"
+    },
+    "Incline Dumbbell Bench Press": {
+      "path": "ek/0061-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "107afc210a381e246cfdeb792cbdf685"
+    },
+    "Incline Dumbbell Curl": {
+      "path": "wger/83c52f8a-afc9-4fe2-b2ac-3f89f25958e5.jpg",
+      "credit": "Photo: yuhonas/free-exercise-db · CC0 1.0",
+      "md5": "39e4c21c670db414b7e7e79e4dbe286b"
+    },
+    "Incline Dumbbell Flyes": {
+      "path": "ek/0062-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "f9d46fe4e2a4945eea550086e01573bd"
+    },
+    "Incline Dumbbell Flyes - With A Twist": {
+      "path": "ek/0063-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "8935ac5628b5f2b4b5414e9fa0d844ad"
+    },
+    "Incline Dumbbell Press": {
+      "path": "ek/0080-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "5023fb7549bd9f15d26992c2f8334b09"
+    },
+    "Incline Inner Biceps Curl": {
+      "path": "ek/0231-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "25e064f7e74dbcd616a0f03e772cecea"
+    },
+    "Internal Rotation with Band": {
+      "path": "ek/0034-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "83b9b466e2427e5fac2b2f929117f680"
+    },
+    "Inverted Barbell Row": {
+      "path": "ek/0086-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "250826c411d1855d3393bb04d2ca5b01"
+    },
+    "Inverted Row": {
+      "path": "ek/0086-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "250826c411d1855d3393bb04d2ca5b01"
+    },
+    "Kettlebell One-Legged Deadlift": {
+      "path": "wger/68d9488d-2596-420f-be0f-52aa70732c83.webp",
+      "credit": "Photo: AlucardEvil40 · CC BY-SA 4.0 (via wger.de)",
+      "md5": "1d444fd8890acb2eaf89c29f000b2275"
+    },
+    "Kettlebell Overhead Triceps Extension": {
+      "path": "ek/0201-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "f8ffa022a8fe5f5885fde680e61b2687"
+    },
+    "Kettlebell Pistol Squat": {
+      "path": "wger/3b681e59-377b-40db-9113-ca5873ce084b.jpg",
+      "credit": "Photo: wakanda90 · CC BY-SA 4.0 (via wger.de)",
+      "md5": "48ea15e345c3a3d6389927506d8c1fec"
+    },
+    "Lat Pulldown": {
+      "path": "apex/lat-pulldown-wide-set3.svg",
+      "credit": "Illustration: APEX original",
+      "md5": "7d09170f36b43a9e73a744514a92a54f",
+      "thumb": "apex/lat-pulldown-wide-set3-thumb.svg",
+      "thumb_md5": "21dd6511e22b46438cbb30069e455568"
+    },
+    "Leg Curl": {
+      "path": "wger/b318dde9-f5f2-489f-940a-cd864affb9e3.png",
+      "credit": "Photo: Franpol · CC BY-SA 4.0 (via wger.de)",
+      "md5": "4ee8e2400dce7a91ce8509e1fe0d1f41"
+    },
+    "Leg Extension": {
+      "path": "ek/0142-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "aa56c00333b2e7ed810f75b1d876ef11"
+    },
+    "Leg Extensions": {
+      "path": "ek/0142-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "aa56c00333b2e7ed810f75b1d876ef11"
+    },
+    "Leg Press": {
+      "path": "ek/0127-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "a974abb5cfde48aaf9d0258aa2ba19f4"
+    },
+    "Leverage Decline Chest Press": {
+      "path": "ek/0085-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "e640e54bbcdaefc0b0bfd5d11cd70ebf"
+    },
+    "Lunge": {
+      "path": "wger/5c7ffe68-e7b2-47f3-a22a-f9cc28640432.png",
+      "credit": "Photo: Franpol · CC BY-SA 4.0 (via wger.de)",
+      "md5": "ce911bbf8f47684e5b933477288685eb"
+    },
+    "Lying Leg Curl": {
+      "path": "ek/0117-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "9b796beee5a1c8cb5432f14ffd8c5b8b"
+    },
+    "Lying Machine Squat": {
+      "path": "ek/0144-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "25eab6d9b5590227630c57c14090453a"
+    },
+    "Machine Bench Press": {
+      "path": "ek/0066-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "d2b7b80c80039888d055b628f9725d5e"
+    },
+    "Machine Chest Fly": {
+      "path": "ek/0056-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "942ca377b3130697c734b8d11c644cc8"
+    },
+    "Machine Lateral Raise": {
+      "path": "wger/aa724a58-b3b5-4522-b278-1155416236a5.jpg",
+      "credit": "Photo: roneydya · CC BY-SA 4.0 (via wger.de)",
+      "md5": "203a32b339b4cba1d80f5f6a2034b866"
+    },
+    "Machine Shoulder Press": {
+      "path": "wger/Shoulder-press-machine-2.png",
+      "credit": "Photo: wger.de · CC BY-SA 3.0 (via wger.de)",
+      "md5": "398811592a059fd4ba5a905552196f52"
+    },
+    "Narrow Grip Pulldown": {
+      "path": "apex/lat-pulldown-narrow-set3.svg",
+      "credit": "Illustration: APEX original",
+      "md5": "0f40e4cbfef5eae60c5187a6fd193788",
+      "thumb": "apex/lat-pulldown-narrow-set3-thumb.svg",
+      "thumb_md5": "5598a182f0f2852994351b7be1cfd593"
+    },
+    "Narrow Stance Hack Squats": {
+      "path": "ek/0145-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "de85cc524af7dac27dc3c662cc2d58ed"
+    },
+    "Narrow Stance Leg Press": {
+      "path": "ek/0143-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "8d743f06a8be0c29cfebb7b0992feec5"
+    },
+    "Narrow Stance Squats": {
+      "path": "ek/0146-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "396d380dc17b3946d39312802b8d7a8e"
+    },
+    "One Arm Dumbbell Bench Press": {
+      "path": "ek/0068-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "9c9088362b7a97ec8cbe25d2c5300506"
+    },
+    "One Arm Floor Press": {
+      "path": "ek/0070-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "c62d220557a885539ad06e519b8509a2"
+    },
+    "One Leg Barbell Squat": {
+      "path": "ek/0147-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "196de2fe9d0a7258f92734d5f130e077"
+    },
+    "One-Arm Side Deadlift": {
+      "path": "ek/0150-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "a440f185c9c78cd4c562b9548434f92e"
+    },
+    "Overhead Tricep Extension": {
+      "path": "ek/0201-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "f8ffa022a8fe5f5885fde680e61b2687"
+    },
+    "Pallof Press": {
+      "path": "wger/074e1766-4208-4a67-a211-9721772d99b0.png",
+      "credit": "Photo: prevail90 · CC BY-SA 4.0 (via wger.de)",
+      "md5": "a3779267add87cabac957ba952a6d9a2"
+    },
+    "Pendlay Row": {
+      "path": "apex/pendlay-row-set3.svg",
+      "credit": "Illustration: APEX original",
+      "md5": "772edfc1b49ae9cc78a684482da74631",
+      "thumb": "apex/pendlay-row-set3-thumb.svg",
+      "thumb_md5": "1b39e8a1630f63181d6896a5ccf54097"
+    },
+    "Preacher Curl": {
+      "path": "wger/Preacher-curl-3-1.png",
+      "credit": "Photo: Everkinetic · CC BY-SA 3.0 (via wger.de)",
+      "md5": "2f14ec91ab0922c3af3843c3e1b780ca"
+    },
+    "Pull-Up": {
+      "path": "ek/0087-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "b8243d2254fc05c3fe5a4efbdba60810"
+    },
+    "Pulldown": {
+      "path": "apex/lat-pulldown-wide-set3.svg",
+      "credit": "Illustration: APEX original",
+      "md5": "7d09170f36b43a9e73a744514a92a54f",
+      "thumb": "apex/lat-pulldown-wide-set3-thumb.svg",
+      "thumb_md5": "21dd6511e22b46438cbb30069e455568"
+    },
+    "Pullups": {
+      "path": "ek/0087-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "b8243d2254fc05c3fe5a4efbdba60810"
+    },
+    "Push Press": {
+      "path": "wger/70a2d72c-a822-45f3-8de2-54ea85951b84.jpg",
+      "credit": "Photo: philip · CC BY-SA 4.0 (via wger.de)",
+      "md5": "771d0681c49eaff7039f279f9ca02968"
+    },
+    "Push-Up": {
+      "path": "ek/0077-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "667c0cbe102509a70ed34fa92d87dce9"
+    },
+    "Push-Ups With Feet Elevated": {
+      "path": "ek/0075-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "7b6ebd6364393abb190013816a44b7f5"
+    },
+    "RDL": {
+      "path": "ek/0118-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "18e5ed08b7fd883af4b928e764281310"
+    },
+    "Rear Delt Fly": {
+      "path": "wger/74affc0d-03b6-4f33-b5f4-a822a2615f68.png",
+      "credit": "Photo: cshep442 · CC BY-SA 4.0 (via wger.de)",
+      "md5": "c5e340b5190c8d973f7a7503d5c9ee6e"
+    },
+    "Reverse Lunge": {
+      "path": "wger/d0931eb3-8db0-4049-bb08-aa4036072056.jfif",
+      "credit": "Photo: philip · CC BY-SA 4.0 (via wger.de)",
+      "md5": "fbe4ecb3b6b60d182962ddee4d30964b"
+    },
+    "Reverse Triceps Bench Press": {
+      "path": "ek/0190-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "7baabcda647773e4e16df0f441319ad6"
+    },
+    "Romanian Deadlift": {
+      "path": "ek/0118-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "18e5ed08b7fd883af4b928e764281310"
+    },
+    "Rope Crunch": {
+      "path": "ek/0291-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "e3be70445e7eda6a24d20e92e9289f4f"
+    },
+    "Rope Overhead Triceps Extension": {
+      "path": "ek/0201-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "f8ffa022a8fe5f5885fde680e61b2687"
+    },
+    "Rope Pushdown": {
+      "path": "ek/0206-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "7263d92dfae5be96f26c19723e0e521d"
+    },
+    "Row": {
+      "path": "wger/Barbell-rear-delt-row-1.png",
+      "credit": "Photo: Everkinetic · CC BY-SA 3.0 (via wger.de)",
+      "md5": "9209994d72e90a32b66d61a450197b26"
+    },
+    "Russian Twist": {
+      "path": "wger/70ca5d80-3847-4a8c-8882-c6e9e485e29e.png",
+      "credit": "Photo: lion · CC BY-SA 4.0 (via wger.de)",
+      "md5": "8e3b946b1b672ef16573de0d218f28a2"
+    },
+    "Seated Barbell Military Press": {
+      "path": "ek/0004-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "5a1c9b2ac6f2946527a7dfb4bf7df245"
+    },
+    "Seated Barbell Overhead Triceps Extension": {
+      "path": "ek/0193-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "a8c8304419afc71305045b14f3fe9068"
+    },
+    "Seated Cable Row": {
+      "path": "ek/0025-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "f5e669d5ef01c10b9710467e73f60bac"
+    },
+    "Seated Cable Rows": {
+      "path": "ek/0025-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "f5e669d5ef01c10b9710467e73f60bac"
+    },
+    "Seated Calf Raise": {
+      "path": "ek/0272-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "c82f8e984528f84cf52bfddf37d3e78c"
+    },
+    "Seated EZ Bar Overhead Triceps Extension": {
+      "path": "ek/0193-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "a8c8304419afc71305045b14f3fe9068"
+    },
+    "Seated Leg Curl": {
+      "path": "ek/0119-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "13811c37d864edfa660fd4f63d656432"
+    },
+    "Seated Row": {
+      "path": "ek/0025-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "f5e669d5ef01c10b9710467e73f60bac"
+    },
+    "Shoulder Press": {
+      "path": "wger/Shoulder-press-machine-2.png",
+      "credit": "Photo: wger.de · CC BY-SA 3.0 (via wger.de)",
+      "md5": "398811592a059fd4ba5a905552196f52"
+    },
+    "Shrug": {
+      "path": "ek/0030-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "fd934350bc4b418d7af4b9b55155ada6"
+    },
+    "Side Plank": {
+      "path": "ek/0113-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "19233fcba2c4d9aa3cd3bfe1cc4fddc2"
+    },
+    "Single-Leg Squat": {
+      "path": "ek/0132-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "f1b230e4a4c30240de5bb0db94f861e9"
+    },
+    "Smith Machine Bench Press": {
+      "path": "ek/0078-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "92e259e5e036cb89254bef88e7ce3361"
+    },
+    "Smith Machine Close-Grip Bench Press": {
+      "path": "ek/0195-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "ef29c6186e461b78066d40a436ca3b76"
+    },
+    "Smith Machine Incline Bench Press": {
+      "path": "ek/0081-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "00bc2bcf70793cea14740c12225ea1b4"
+    },
+    "Smith Machine Squat": {
+      "path": "ek/0124-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "a072d585f082a57f03aef9c22685082d"
+    },
+    "Smith Machine Upright Row": {
+      "path": "ek/0013-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "aaf8a2d284da010162a8599de3cb046d"
+    },
+    "Speed Squats": {
+      "path": "ek/0154-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "ad247490d532fd92a0b2700c14512ef1"
+    },
+    "Standing Calf Raise": {
+      "path": "wger/9a429bd0-afd3-4ad0-8043-e9beec901c81.jpeg",
+      "credit": "Photo: clafal · CC BY-SA 4.0 (via wger.de)",
+      "md5": "76f31b45621837621fe6bdd923de8899"
+    },
+    "Standing Dumbbell Upright Row": {
+      "path": "ek/0016-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "3d0bb2678edea061a42a8bfb054a3047"
+    },
+    "Standing Rope Crunch": {
+      "path": "ek/0291-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "e3be70445e7eda6a24d20e92e9289f4f"
+    },
+    "Straight-Arm Dumbbell Pullover": {
+      "path": "ek/0079-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "20f1bf8f816fad9ef2ce57d43b695120"
+    },
+    "Straight-Arm Pulldown": {
+      "path": "ek/0092-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "5debe1002748f72ea6d69249a0c39421"
+    },
+    "T-Bar Row": {
+      "path": "ek/0029-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "732250e04247c54fc5d245d23dc4edbb"
+    },
+    "Tricep Kickback": {
+      "path": "ek/0204-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "038017dae300bd0c402a229967982f6e"
+    },
+    "Tricep Pushdown": {
+      "path": "wger/c5ca283d-8958-4fd8-9d59-a3f52a3ac66b.jpg",
+      "credit": "Photo: anto.kreegyr · CC BY-SA 4.0 (via wger.de)",
+      "md5": "bc58ff67b3d6d1acfc28d7dd5517432e"
+    },
+    "Underhand Cable Pulldowns": {
+      "path": "ek/0093-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "aedd44c33b68606e33c94668f7b5aa34"
+    },
+    "Upright Barbell Row": {
+      "path": "ek/0014-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "244289e1a47f9f417a418c7cfb9d3dd2"
+    },
+    "Upright Cable Row": {
+      "path": "ek/0015-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "2e19ba160e49df5c227c6e2bca15ee2e"
+    },
+    "Upright Row": {
+      "path": "ek/0014-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "244289e1a47f9f417a418c7cfb9d3dd2"
+    },
+    "V-Bar Pulldown": {
+      "path": "ek/0096-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "27d7a64dd3ef24884c9c966cd69c91d4"
+    },
+    "Walking Lunge": {
+      "path": "ek/0121-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "c6cb274776173148ed5f3d4cf97f1132"
+    },
+    "Weighted Crunches": {
+      "path": "wger/63ae02d6-6dd9-4e9e-84da-d4905e78a33c.jpg",
+      "credit": "Photo: AlucardEvil40 · CC BY-SA 4.0 (via wger.de)",
+      "md5": "63b8d5c5e2dc3f7682b91bfbca978cc5"
+    },
+    "Weighted Sissy Squat": {
+      "path": "ek/0158-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "68b6e9f3444e42037f27bb5b6367609b"
+    },
+    "Wide Grip Pulldown": {
+      "path": "apex/lat-pulldown-wide-set3.svg",
+      "credit": "Illustration: APEX original",
+      "md5": "7d09170f36b43a9e73a744514a92a54f",
+      "thumb": "apex/lat-pulldown-wide-set3-thumb.svg",
+      "thumb_md5": "21dd6511e22b46438cbb30069e455568"
+    },
+    "Wide Stance Barbell Squat": {
+      "path": "ek/0160-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "7c8e73e8cbe78412c33be123fd485b5d"
+    },
+    "Wide-Grip Barbell Bench Press": {
+      "path": "ek/0082-tension.svg",
+      "credit": "Illustration: Everkinetic · CC BY-SA 4.0",
+      "md5": "fd538d1a837fe8328017b447ba4ca46b"
+    },
+    "Wide-Grip Lat Pulldown": {
+      "path": "apex/lat-pulldown-wide-set3.svg",
+      "credit": "Illustration: APEX original",
+      "md5": "7d09170f36b43a9e73a744514a92a54f",
+      "thumb": "apex/lat-pulldown-wide-set3-thumb.svg",
+      "thumb_md5": "21dd6511e22b46438cbb30069e455568"
+    }
+  }
+}
